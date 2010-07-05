@@ -1,0 +1,6 @@
+This project is a Perl client for the Open Data protocol as defined on the OData project website
+
+http://www.odata.org
+
+Right now, there's just a XSL transform to take the OData metadata and turn it into a series of Moose classes. Eventually I'll code 
+the plumbing for the AtomPub bits.
